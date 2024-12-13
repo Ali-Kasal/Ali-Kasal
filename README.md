@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ali-Kasal
-- 👀 I’m interested in ...
+- 👀 I’m interested in game developement
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me please de via messages 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: BumblBees Should not be able to fly
 
