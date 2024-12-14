@@ -2,7 +2,7 @@
 - 👀 I’m interested in game developement
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me please de via messages 
+- 📫 How to reach me please don't
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: BumblBees Should not be able to fly
 
